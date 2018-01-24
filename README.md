@@ -1,2 +1,2 @@
 # stats-recipes
-Collection of python statistics recipes
+Collection of statistics references & recipes
